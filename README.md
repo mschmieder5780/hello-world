@@ -1,3 +1,3 @@
 # hello-world
 
-I live on planet earth
+I live on Mars
